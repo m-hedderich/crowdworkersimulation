@@ -1,0 +1,10 @@
+{
+    "intentional_answer_time": 1,
+    "interestingness_sensitivity": 0.5,
+    "payout_sensitivity": 1,
+    "random_answer_time": 0.1,
+    "start_reputation": 1,
+    "switch_task_time": 1,
+    "time_budget": 50,
+    "time_sensitivity": 0
+}

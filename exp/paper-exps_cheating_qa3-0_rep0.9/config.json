@@ -1,0 +1,13 @@
+{
+    "description": "default user with beta distribution. part of the experiment series about cheating.",
+    "exp_dir_path": "../exp/paper-exps_cheating_qa3-0_rep0.9",
+    "exploration_final_eps": 0.05,
+    "exploration_fraction": 0.2,
+    "git_hash": "b'958e97313106129f48bd393c32b2fa29d368cd2c'",
+    "learning_starts": 500,
+    "main_seed": 12345,
+    "name": "paper-exps_cheating_qa3-0_rep0.9",
+    "rl_model": "QR-DQN",
+    "timestamp": "05:59AM CEST on Jul 07, 2022",
+    "total_timesteps": 10000000
+}

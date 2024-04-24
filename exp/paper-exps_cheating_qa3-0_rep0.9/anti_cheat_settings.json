@@ -1,0 +1,7 @@
+{
+    "min_reputation": 0.9,
+    "qa_false_max": 3,
+    "qa_mode_prob": 0,
+    "reputation_bonus": 0.05,
+    "reputation_punishment": -0.05
+}
