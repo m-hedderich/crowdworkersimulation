@@ -1,7 +1,9 @@
 
 ## Explaining Crowdworker Behaviour Through Computational Rationality
 
-This is the supplementary material (code + models) for the paper ["Explaining crowdworker behaviour through computational rationality"](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2329616).
+This is the supplementary material (preprint + code + models) for the paper ["Explaining crowdworker behaviour through computational rationality"](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2329616).
+
+You can find the pre-print of the paper [here](https://michael-hedderich.de/assets/pdf/ExplainingCrowdworkerComputationalRationality.pdf).
 
 ## Abstract
 Crowdsourcing has transformed whole industries by enabling the collection of human input at scale. Attracting high quality responses remains a challenge, however. Several factors affect which tasks a crowdworker chooses, how carefully they respond, and whether they cheat. In this work, we integrate many such factors into a simulation model of crowdworker behaviour rooted in the theory of computational rationality. The root assumption is that crowdworkers are rational and choose to behave in a way that maximises their expected subjective payoffs. The model captures two levels of decisions: (i) a worker's choice among multiple tasks and (ii) how much effort to put into a task. We formulate the worker's decision problem and use deep reinforcement learning to predict worker behaviour in realistic crowdworking scenarios. We examine predictions against empirical findings on the effects of task design and show that the model successfully predicts adaptive worker behaviour with regard to different aspects of task participation, cheating, and task-switching. To support explaining crowdworker actions and other choice behaviour, we make our model publicly available.
