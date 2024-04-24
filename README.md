@@ -1,5 +1,5 @@
 
-# # Explaining Crowdworker Behaviour Through Computational Rationality
+## Explaining Crowdworker Behaviour Through Computational Rationality
 
 This is the supplementary material (code + models) for the paper ["Explaining crowdworker behaviour through computational rationality"](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2329616).
 
